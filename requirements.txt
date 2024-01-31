@@ -1,0 +1,10 @@
+torch==2.2.0
+transformers==4.37.2
+streamlit==1.30.0
+gensim
+nltk
+spacy
+tensorflow
+scikit-learn
+seaborn
+wordcloud
